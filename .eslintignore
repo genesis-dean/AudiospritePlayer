@@ -1,0 +1,7 @@
+!.eslintrc.js
+/.git
+/.vscode
+/node_modules/**
+/dist/**
+*.html
+*.json
